@@ -30,10 +30,7 @@ A sophisticated real-time sports commentary system that combines live game stati
 ## Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/sports-commentary.git
-cd sports-commentary
-```
+
 
 2. Create and activate a virtual environment:
 ```bash
